@@ -1,0 +1,25 @@
+LIST OF APIs: https://apilist.fun/
+
+An Application Programming Interface (API) is a set of
+commands, functions, protocols, and objects that
+programmers can use to create software or interact with
+an external system.
+
+An API is an interface (or barrier) between your program
+and an external system.
+
+An API is a request from your program to an external system.
+- the request most follow "rules"
+- external system sends response from the rules sent
+- example: a menu at a restaurant is similar to an API
+
+API Endpoint - location of data (URL)
+- JSON data format
+
+HTTP Codes
+    --- source: https://www.webfx.com/web-development/glossary/http-status-codes/
+1XX (100 something): Hold on
+2XX (200 something): Here you go
+3XX (300 something): Go away - no permission
+4XX (400 something): You screwed up
+5XX (500 something): I, the server, screwed up
