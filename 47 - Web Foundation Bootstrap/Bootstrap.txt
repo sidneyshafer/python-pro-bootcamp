@@ -1,0 +1,9 @@
+What is Bootstrap?
+* Front-end library
+
+Design Patterns: https://ui-patterns.com/patterns
+Websites on Dribble: https://dribbble.com/search/website
+Templates for wireframing: https://sneakpeekit.com/
+
+Payed Wireframing Plan: https://balsamiq.com/
+
