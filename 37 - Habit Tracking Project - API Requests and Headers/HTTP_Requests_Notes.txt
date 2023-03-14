@@ -1,0 +1,21 @@
+HTTP Requests
+- use the python requests module
+
+GET
+- requests.get() --> url and other parameters go in parentheses
+- to get a request
+- ask an external system for a piece of data
+- external system returns a response
+
+POST
+- requests.post()
+- we give external system data some piece of data
+- not so interested in response, other than if it was successful or not
+
+PUT
+- requests.put()
+- update a piece of data in the external service
+
+DELETE
+- requests.delete()
+- deleted a piece of data in the external service
