@@ -1,4 +1,4 @@
-# Python Pro
+# Python Pro Bootcamp
 Contains programming files/projects for learning basic and advanced Python concepts.
 
 ## Attribution
